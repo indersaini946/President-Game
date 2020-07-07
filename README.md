@@ -7,7 +7,7 @@ It tells you your score and you can even play again instead of reloading the ent
 
 # Language:
 Python
-
+# Other Info
 Used recursion, while loops, and functions/variables.
 
 Developed by: Inder Saini
